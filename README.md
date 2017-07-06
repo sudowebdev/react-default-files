@@ -20,4 +20,6 @@ Some basic information about the default project structure:
 1. All the React code goes inside the **src** directory as this is mentioned as the **APP_DIR** in **webpack.config.js**.  
 2. The main React code will go inside **src/app.jsx** as this is mentioned as the **entry** file for webpack.  
 3. The output gets served from **static** directory as this is mentioned as the **BUILD_DIR** in **webpack.config.js**.  
-4. Run **npm run dev** to run the script that is mentioned inside the **scripts** field in **package.json**.
+4. Run **npm run dev** to run the script that is mentioned inside the **scripts** field in **package.json**.  
+
+##### The step-by-step explanation of **creating your first React App** is given **[here](https://github.com/sudowebdev/react-basic-app)**
