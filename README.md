@@ -2,7 +2,7 @@
 
 ### How to use this repo to initialise your React App?
 
-Run the following command on the terminal:
+Run the following command in the terminal:
 
 	git clone https://github.com/sudowebdev/react-default-files.git
 
