@@ -1,6 +1,6 @@
 # React environment setup
 
-### How to use this repo to start your React App?
+### How to use this repo to initialise your React App?
 
 Run the following command on the terminal:
 
