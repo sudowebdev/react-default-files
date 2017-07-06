@@ -10,4 +10,13 @@ After cloning it in your local directory, run:
 
 	npm install
 
-The environment is all set-up. You can now start your React Project by writing code in **src/app.jsx** file.		
+The environment is all set-up. You can now start your React Project by writing code in **src/app.jsx** file.  
+Now run the following command to see your default react app on **localhost:8080**  
+
+	npm run dev
+
+	
+Some basic information about the default project structure:  
+1. The main React code will go inside **src/app.jsx** as this is mentioned as the **entry** file for webpack.  
+2. The output gets served from **static** directory as this is mentioned as the **BUILD_DIR** in **webpack.config.js**.  
+3. Run **npm run dev** to run the script that is mentioned inside the **scripts** field in **package.json**.
